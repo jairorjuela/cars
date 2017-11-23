@@ -1,0 +1,29 @@
+.racer_table td {
+  background-color: white;
+  height: 90px;
+  width: 90px;
+  border: 1px solid black;
+}
+
+.racer_table td.active {
+  background-color: black;
+}
+
+
+#traffic-light {
+  height: 275px;
+  width: 100px;
+  float: left;
+  background-color: #333;
+  border-radius: 40px;
+  margin: 40;
+  padding: 10px;
+}
+
+.bulb {
+  height: 75px;
+  width: 75px;
+  background-color: #555;
+  border-radius: 50%;
+  margin: 15px auto;
+}
